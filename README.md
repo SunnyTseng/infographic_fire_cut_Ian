@@ -9,6 +9,13 @@ of the boreal forest". Here are the relavent info:
 - [Full paper](./docs/full%20paper.pdf)
 - [Quick note](./docs/quick%20note.pdf)
 
+
+## Product
+
+### version 1 (May 7)
+
+![](./docs/infographic_fire_cut_Ian_v1.png)
+
 ## Time line
 
 | Item | Due | Communication with client |
