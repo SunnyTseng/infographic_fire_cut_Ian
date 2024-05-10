@@ -12,6 +12,12 @@ of the boreal forest". Here are the relavent info:
 
 ## Product
 
+### version 2 (May 10)
+
+Download for [JPG](./docs/infographic_fire_cut_Ian_v2.jpg), [PNG](./docs/infographic_fire_cut_Ian_v2.png), and [PDF PRINT](./docs/infographic_fire_cut_Ian_v2.pdf)
+
+![](./docs/infographic_fire_cut_Ian_v2.png)
+
 ### version 1 (May 7)
 
 ![](./docs/infographic_fire_cut_Ian_v1.png)
